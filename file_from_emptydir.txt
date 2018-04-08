@@ -1,0 +1,2 @@
+#adding a file into emptydir
+Hello file1 from empty dir
