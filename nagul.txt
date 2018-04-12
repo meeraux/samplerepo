@@ -7,7 +7,7 @@ cb3a7a0 HEAD@{5}: checkout: moving from orphan2 to master
 7706cb1 HEAD@{6}: commit: empty branch initial commit
 9957405 HEAD@{7}: checkout: moving from orphan_branch to orphan2
 0c04aad HEAD@{8}: commit (initial): adding readme
-cb3a7a0 HEAD@{9}: commit: git megrge-file updates
+cb3a7a0 HEAD@{9}: commit: git megrge-file updates   #this is the line edited
 03a64ea HEAD@{10}: merge myrepo/master: Merge made by the 'recursive' strategy.
 9288a82 HEAD@{11}: checkout: moving from int-branch2 to master
 326d568 HEAD@{12}: commit: updated file with line2 and 3
