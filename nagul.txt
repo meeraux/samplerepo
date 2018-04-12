@@ -1,0 +1,53 @@
+cb3a7a0 HEAD@{0}: reset: moving to HEAD
+cb3a7a0 HEAD@{1}: checkout: moving from new_branch to master
+260bb2d HEAD@{2}: checkout: moving from master to new_branch
+cb3a7a0 HEAD@{3}: checkout: moving from commit_branch to master
+260bb2d HEAD@{4}: checkout: moving from master to commit_branch
+cb3a7a0 HEAD@{5}: checkout: moving from orphan2 to master
+7706cb1 HEAD@{6}: commit: empty branch initial commit
+9957405 HEAD@{7}: checkout: moving from orphan_branch to orphan2
+0c04aad HEAD@{8}: commit (initial): adding readme
+cb3a7a0 HEAD@{9}: commit: git megrge-file updates
+03a64ea HEAD@{10}: merge myrepo/master: Merge made by the 'recursive' strategy.
+9288a82 HEAD@{11}: checkout: moving from int-branch2 to master
+326d568 HEAD@{12}: commit: updated file with line2 and 3
+a7cd8b4 HEAD@{13}: checkout: moving from int-branch1 to int-branch2
+f33fc15 HEAD@{14}: commit: adding file2 and 3
+a7cd8b4 HEAD@{15}: checkout: moving from integration-branch to int-branch1
+a7cd8b4 HEAD@{16}: commit: adding int_file1
+c136a9d HEAD@{17}: checkout: moving from release-branch to integration-branch
+9288a82 HEAD@{18}: checkout: moving from master to release-branch
+9288a82 HEAD@{19}: checkout: moving from release-branch to master
+c136a9d HEAD@{20}: checkout: moving from integration-branch to release-branch
+c136a9d HEAD@{21}: checkout: moving from master to integration-branch
+9288a82 HEAD@{22}: checkout: moving from emptybranch to master
+f4fa58f HEAD@{23}: commit (initial): adding file to emptybranch
+9288a82 HEAD@{24}: checkout: moving from eng-branch to master
+56090b5 HEAD@{25}: commit: adding file to emptydir
+7797152 HEAD@{26}: checkout: moving from master to eng-branch
+9288a82 HEAD@{27}: checkout: moving from devbranch1 to master
+b4323eb HEAD@{28}: merge master: Merge made by the 'recursive' strategy.
+ba4c689 HEAD@{29}: checkout: moving from master to devbranch1
+9288a82 HEAD@{30}: commit (amend): adding new files 4.8
+e0fee24 HEAD@{31}: commit: adding new files 1..8
+db2765b HEAD@{32}: reset: moving to origin/master
+da78c98 HEAD@{33}: commit: adding files 5 6 7 second time
+db2765b HEAD@{34}: reset: moving to origin/master
+9672280 HEAD@{35}: commit: adding files 4 5 6
+db2765b HEAD@{36}: reset: moving to origin/master
+db2765b HEAD@{37}: checkout: moving from devbranch1 to master
+ba4c689 HEAD@{38}: checkout: moving from master to devbranch1
+db2765b HEAD@{39}: checkout: moving from devbranch1 to master
+ba4c689 HEAD@{40}: commit: removed file2
+db2765b HEAD@{41}: checkout: moving from master to devbranch1
+db2765b HEAD@{42}: checkout: moving from devbranch1 to master
+db2765b HEAD@{43}: checkout: moving from master to devbranch1
+db2765b HEAD@{44}: merge newbrach2: Fast-forward
+033d0dd HEAD@{45}: checkout: moving from newbrach2 to master
+db2765b HEAD@{46}: commit: adding file3.html
+033d0dd HEAD@{47}: checkout: moving from branch1 to newbrach2
+c273a13 HEAD@{48}: commit: first file in branch1
+033d0dd HEAD@{49}: checkout: moving from master to branch1
+033d0dd HEAD@{50}: pull: Fast-forward
+a099997 HEAD@{51}: commit: adding content to file1
+2f7c6b0 HEAD@{52}: clone: from git@github.com:meeraux/samplerepo.git
